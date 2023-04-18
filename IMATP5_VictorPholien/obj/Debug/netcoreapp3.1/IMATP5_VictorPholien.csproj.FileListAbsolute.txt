@@ -1,0 +1,14 @@
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\obj\Debug\netcoreapp3.1\IMATP5_VictorPholien.csproj.AssemblyReference.cache
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\obj\Debug\netcoreapp3.1\IMATP5_VictorPholien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\obj\Debug\netcoreapp3.1\IMATP5_VictorPholien.AssemblyInfoInputs.cache
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\obj\Debug\netcoreapp3.1\IMATP5_VictorPholien.AssemblyInfo.cs
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\obj\Debug\netcoreapp3.1\IMATP5_VictorPholien.csproj.CoreCompileInputs.cache
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\bin\Debug\netcoreapp3.1\IMATP5_VictorPholien.exe
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\bin\Debug\netcoreapp3.1\IMATP5_VictorPholien.deps.json
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\bin\Debug\netcoreapp3.1\IMATP5_VictorPholien.runtimeconfig.json
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\bin\Debug\netcoreapp3.1\IMATP5_VictorPholien.runtimeconfig.dev.json
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\bin\Debug\netcoreapp3.1\IMATP5_VictorPholien.dll
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\bin\Debug\netcoreapp3.1\IMATP5_VictorPholien.pdb
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\obj\Debug\netcoreapp3.1\IMATP5_VictorPholien.dll
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\obj\Debug\netcoreapp3.1\IMATP5_VictorPholien.pdb
+C:\Users\180229\Desktop\IMATP5_VictorPholien\IMATP5_VictorPholien\obj\Debug\netcoreapp3.1\IMATP5_VictorPholien.genruntimeconfig.cache
